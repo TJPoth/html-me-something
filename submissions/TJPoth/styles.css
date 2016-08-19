@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 18px;
+}
+
+span {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  border: 1px solid black;
+}
+
+#intro {
+  margin: auto;
+  height: 200px;
+  width: 90%;
+}
